@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Innovative web development projects, especially in ReactJS, Angular, and cloud-native applications that solve real-world problems.**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1ZZaIY7CAdTeHe9GcgxJ1sFzYx1QzPIw3/view?usp=sharing](https://drive.google.com/file/d/1ZZaIY7CAdTeHe9GcgxJ1sFzYx1QzPIw3/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [https://github.com/choladevig?tab=repositories](https://github.com/choladevig?tab=repositories)
 
 - 💬 Ask me about Front-end frameworks **React, Angular, state management, performance tuning, REST & GraphQL APIs, and cloud integrations.**
 
 - 📫 How to reach me **choladevi.gheereddy@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](My_Resume)
+- 📄 Know about my experiences [https://github.com/choladevig/choladevig/blob/main/Resume_Choladevi_Gheereddy.pdf](https://github.com/choladevig/choladevig/blob/main/Resume_Choladevi_Gheereddy.pdf)
 
 - ⚡ Fun fact **I love blending creative UI with performance-tuned code—and I think I'm funny 😄.**
 
